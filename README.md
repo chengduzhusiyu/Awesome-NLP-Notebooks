@@ -11,4 +11,4 @@ $ git clone https://github.com/chengduzhusiyu/Awesome-NLP-Notebooks.git
 $ cd Awesome-NLP-Notebooks
 ```
 # How to cite the notebooks:
-Che
+Chengduzhusiyu, IPython notebook: Introduction to NLP with Sentiment Analysis, Update Month and Year, URL: https://github.com/chengduzhusiyu/Awesome-NLP-Notebooks
